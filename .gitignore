@@ -35,6 +35,7 @@ logfile
 nlp.rb
 pkg
 public/assets/
+public/system/movies/images
 public/images/top/
 rdoc
 script/env
